@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: linear-gradient(to right, #8360c3, #2ebf91);
+  color: white;
+  margin: 0;
+  padding-top: 100px;
+}
+
+.container {
+  max-width: 400px;
+  margin: auto;
+  padding: 30px;
+  background-color: rgba(0,0,0,0.2);
+  border-radius: 15px;
+}
+
+.time {
+  font-size: 48px;
+  margin: 20px 0;
+}
+
+.buttons button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
